@@ -32,7 +32,7 @@
 
 (defvar *dist-quicklisp-directory*
   (merge-pathnames "quicklisp/" *dist-directory*)
-  "The direcotory of original \"quicklisp\" dist.")
+  "The directory of original \"quicklisp\" dist.")
 
 (defvar *dist-quicklisp-archive-directory*
   (merge-pathnames "archive/quicklisp/" *web-server-directory-root*)
