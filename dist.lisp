@@ -15,7 +15,7 @@
            #:*dist-tasks/retry-verifying*
            #:*releases*
            #:fetch-quicklisp.txt
-           #:fetch-quickliso-versions.txt
+           #:fetch-quicklisp-versions.txt
            #:initialize/dist
            #:mirror/dist
            #:mirror/releases
